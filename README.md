@@ -6,9 +6,10 @@ CHHITO LEDGER - USER MANUAL
 Version 1.3.1 | Developer: Tulaaram Kathariya
 Website: tularam.com.np | Phone: +977 9848491651
 
-============================================================
+
 CHAPTER 1: GETTING STARTED
-============================================================
+============================
+
 
 1.1 SYSTEM REQUIREMENTS
     - Operating System: Windows 10 / 11 (64-bit)
@@ -32,9 +33,9 @@ CHAPTER 1: GETTING STARTED
     - Activation is tied to your specific computer - each PC
       requires its own license key
 
-============================================================
+
 CHAPTER 2: FIRST TIME SETUP
-============================================================
+============================
 
 2.1 SET ADMIN PIN
     - On first login, you will be prompted to create a 4-6 digit PIN
@@ -51,9 +52,9 @@ CHAPTER 2: FIRST TIME SETUP
     - Click on your company name to open the Dashboard
     - You can create multiple companies and switch between them
 
-============================================================
+
 CHAPTER 3: DASHBOARD OVERVIEW
-============================================================
+==============================
 
 The Dashboard has the following sections in the left sidebar:
 
@@ -67,9 +68,9 @@ The Dashboard has the following sections in the left sidebar:
   [Analytics]    REPORTS          - Financial reports
   [Settings]     SETTINGS         - Backup, Restore, Date settings
 
-============================================================
+
 CHAPTER 4: FAST BILLING
-============================================================
+=========================
 
 4.1 CREATING A BILL
     1. Click "Fast Billing" in the sidebar
@@ -86,9 +87,9 @@ CHAPTER 4: FAST BILLING
     - Click the Print icon and select your connected printer
     - Supports thermal printers (80mm roll) and regular printers
 
-============================================================
+
 CHAPTER 5: LEDGER MANAGEMENT
-============================================================
+=============================
 
 5.1 CREATING A LEDGER ACCOUNT
     1. Navigate to the desired ledger type (Clients, Salary, etc.)
@@ -108,9 +109,9 @@ CHAPTER 5: LEDGER MANAGEMENT
     - To delete: first delete all entries, then the ledger
     - Admin PIN is required to confirm deletion
 
-============================================================
+
 CHAPTER 6: DAYBOOK (DAILY CASH TRACKING)
-============================================================
+=========================================
 
 6.1 HOW DAYBOOK WORKS
     - Shows all transactions for a selected date
@@ -130,17 +131,17 @@ CHAPTER 6: DAYBOOK (DAILY CASH TRACKING)
     - Use the date picker to view any day's daybook
     - Date is in Bikram Sambat (BS) format
 
-============================================================
+
 CHAPTER 7: REPORTS
-============================================================
+====================
 
 - Reports can be filtered by date range and ledger type
 - Shows total Debit, Credit, Income, and Expenses
 - Use for monthly/yearly financial review
 
-============================================================
+
 CHAPTER 8: SETTINGS
-============================================================
+=====================
 
 8.1 DATA BACKUP
     1. Go to Settings from the sidebar
@@ -166,9 +167,9 @@ CHAPTER 8: SETTINGS
     - Go to Dashboard > Settings icon (top right) > Change PIN
     - Enter your current PIN and new PIN
 
-============================================================
+
 CHAPTER 9: TIPS & BEST PRACTICES
-============================================================
+==================================
 
 - Take a database backup at least ONCE A WEEK
 - Store backups on a USB drive or cloud folder (Google Drive)
@@ -177,9 +178,9 @@ CHAPTER 9: TIPS & BEST PRACTICES
 - Fast Billing CREDIT = cash received from clients
 - Keep your Admin PIN safe - if forgotten, contact developer
 
-============================================================
+
 CONTACT & SUPPORT
-============================================================
+=====================
 
 Developer:  Tulaaram Kathariya
 Website:    tularam.com.np
@@ -188,6 +189,6 @@ Phone:      +977 9848491651
 For license key requests, technical support, or questions,
 please contact via the above information during business hours.
 
-============================================================
+
 Thank you for choosing Chhito Ledger!
-============================================================
+======================================
